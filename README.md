@@ -44,9 +44,9 @@
    - **Redis** (если используется)
    - **Vue.js**
 3. Запустите сервер Spring с командой:
-   mvn spring-boot:run
+   **mvn spring-boot:run**
    или прямиком из IDE.
 4. Запустите фронтенд Vue.js командой:
-   npm install
-   npm run serve
-5. Приложение будет доступно по адресу localhost:8082
+   **npm install**
+   **npm run serve**
+5. Приложение будет доступно по адресу **localhost:8082**
