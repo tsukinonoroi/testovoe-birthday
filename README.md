@@ -49,3 +49,8 @@
    **-npm run serve**
 5. Клиентское приложение будет доступно по адресу **localhost:8082**, а серверное приложение - **localhost:8080**.
 
+
+![Реализация просмотра всех дней рождений](https://github.com/user-attachments/assets/57ade556-0510-4598-880a-b7a3ca524ecc)
+![Реализация просмотра сегодняшних и грядущих дней рождений]![image](https://github.com/user-attachments/assets/071d17f7-6823-4ef3-bd41-218dc00e2017)
+
+
